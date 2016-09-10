@@ -1,0 +1,38 @@
+.caja {
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin: 10px;
+	position: relative;
+}
+span {
+	color: white;
+	position: absolute;
+	bottom: 2px;
+	right: 2px;
+}
+hr {
+	width: 100px;
+	border: 1.5px solid black;
+	margin-left: 0px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.foto1 {
+	background-image: url(../img/profile-1.png);
+}
+.foto2 {
+	background-image: url(../img/profile-2.png);
+}
+.foto3 {
+	background-image: url(../img/profile-3.png);
+}
+.foto4 {
+	background-image: url(../img/profile-4.png);
+}
+.foto5 {
+	background-image: url(../img/profile-5.png);
+}
+.foto6 {
+	background-image: url(../img/profile-6.png);
+}
